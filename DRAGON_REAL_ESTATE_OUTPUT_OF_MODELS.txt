@@ -1,0 +1,13 @@
+# Model Outputs:
+
+1. Decesion Tree:
+    Mean: 4.072333171164347
+    Standard_deviation: 0.586244335651366
+
+2.Linear Regression:
+    Mean: 5.037482786117751
+    Standard_deviation: 1.059438240560695
+
+3. RandomForestRegressor:
+    Mean: 3.395756795037741
+    Standard_deviation: 0.8014805110704429
