@@ -8,9 +8,9 @@ The dataset used in this project is the Dragon Real Estates dataset, which consi
 ### Exploratory Data Analysis (EDA)
 Using the power of Python and data manipulation libraries, we perform EDA to gain insights into the dataset. Key aspects of the analysis include:
 
-#### Data cleaning and preprocessing: Handling missing values, removing duplicates, and transforming features as needed.
-#### Descriptive statistics: Summarizing the dataset, calculating mean, median, and other statistical measures.
-#### Data visualization: Creating meaningful visualizations using Matplotlib.pyplot and Seaborn to understand the relationships between different features and the target variable (property price).
+ **Data cleaning and preprocessing:** Handling missing values, removing duplicates, and transforming features as needed.
+ **Descriptive statistics:** Summarizing the dataset, calculating mean, median, and other statistical measures.
+ **Data visualization:** Creating meaningful visualizations using Matplotlib.pyplot and Seaborn to understand the relationships between different features and the target variable (property price).
 ### Machine Learning Models
 After completing the EDA, we move on to developing machine learning models to predict property prices. In this project, we have implemented three models:
 
